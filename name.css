@@ -1,0 +1,29 @@
+body{
+  background-color: lightblue;
+  
+}
+
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 50px;
+  color: white;
+}
+
+p{
+  border-bottom: 5px dotted darkblue;
+  padding: 20px;
+  border-top: 5px dotted darkblue;
+  font-family: 'Caveat', cursive;
+  font-size: 20px;
+  color: white;
+}
+
+button{
+  border: 3px solid white;
+  border-radius: 20px;
+  padding: 10px 20px;
+  text-align: center;
+  background-color: turquoise;
+  color: white;
+}
+
