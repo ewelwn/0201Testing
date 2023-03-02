@@ -22,3 +22,4 @@ button.onclick = function() {
   printNumber(result);
 };
 
+#document.getElementById("myDIV").style.display = "none"
