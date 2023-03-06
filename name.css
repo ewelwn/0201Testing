@@ -1,7 +1,6 @@
 body{
   background-color: lightblue;
   text-align: center;
-  
 }
 
 h1{
@@ -29,33 +28,13 @@ button{
 }
 
 #btn:hover {
-    background-color: rgb(171, 233, 227);
+  background-color: rgb(171, 233, 227);
 }
 
 #dice{
-  margin-left:45%;
+  text-align: center;
 }
 
 #one{
   display: block;
-}
-
-#two{
-  display: none;
-}
-
-#three{
-  display: none;
-}
-
-#four{
-  display: none;
-}
-
-#five{
-  display: none;
-}
-
-#six{
-  display: none;
 }
