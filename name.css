@@ -1,5 +1,6 @@
 body{
   background-color: lightblue;
+  text-align: center;
   
 }
 
@@ -27,8 +28,12 @@ button{
   color: white;
 }
 
-#button:hover {
+#btn:hover {
     background-color: rgb(171, 233, 227);
+}
+
+#dice{
+  margin-left:45%;
 }
 
 #one{
@@ -50,6 +55,7 @@ button{
 #five{
   display: none;
 }
+
 #six{
   display: none;
 }
